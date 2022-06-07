@@ -54,7 +54,7 @@ text-align: center;
 background-color: var(--lightGrey2-gs-neumorphic-login-signup);
 }
 
-.gs-neumorphic-main-card-container .gs-neumorphic-main-card .gs-neumorphic-login{
+/* .gs-neumorphic-main-card-container .gs-neumorphic-main-card .gs-neumorphic-login{
 height: 90%;
 width: 100%;
 text-align: center;
@@ -63,7 +63,7 @@ border-radius: 60% / 10%;
 box-shadow: 0rem 0rem 1rem var(--lightGrey-gs-neumorphic-login-signup), 0rem 0rem 1rem #ffffff;
 background-color: var(--lightGrey2-gs-neumorphic-login-signup);
 z-index: 3;
-}
+} */
 
 .gs-neumorphic-main-card-container .gs-neumorphic-main-card .gs-neumorphic-login.gs-open{
 transform: translateY(-80%);

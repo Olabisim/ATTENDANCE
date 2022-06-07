@@ -27,7 +27,7 @@ export const Login = () => {
                                         </div>
                         
                                         <div className="gs-neumorphic-login">
-                                        <div className="gs-neumorphic-signup-login-header" data-button="gs-neumorphic-login">Login</div>
+                                        {/* <div className="gs-neumorphic-signup-login-header" data-button="gs-neumorphic-login">Login</div> */}
                                         <div className="gs-neumorphic-form-container">
                                                 <form>
                                                 <input type="text" className="gs-neumorphic-input" placeholder="Username" />
