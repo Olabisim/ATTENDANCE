@@ -6,9 +6,13 @@ export const InputStudents = () => {
                 <div>
 
                         Input students
+                        <div>
+                                
+                                <input type="text" placeholder="name" />
+                                <input type="text" placeholder="level" />
+                                <input type="text" placeholder="matric_no" />
 
-                        <input />
-
+                        </div>
                         {/* name and matric of student */}
 
                         {/* the whole student table */}

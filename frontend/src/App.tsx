@@ -2,13 +2,13 @@
 // import './App.css';
 
 import { Login } from './Login'
-import {AttendanceAnalysis} from './AttendanceAnalysis'
+import {MarkAttendance} from './MarkAttendance'
 
 function App() {
 
   return (
     <div>
-            <AttendanceAnalysis />
+            <MarkAttendance />
     </div>
   );
 
