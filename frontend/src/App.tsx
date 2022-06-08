@@ -1,14 +1,14 @@
 // import logo from './logo.svg';
 // import './App.css';
 
-import { Login } from './Login'
-import {MarkAttendance} from './MarkAttendance'
+// import { Login } from './Login'
+import {Login} from './Login'
 
 function App() {
 
   return (
     <div>
-            <MarkAttendance />
+            <Login />
     </div>
   );
 
