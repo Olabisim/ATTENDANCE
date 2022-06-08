@@ -42,32 +42,32 @@ export const AttendanceSheet = () => {
                                         <tbody>
                                                 <tr>
                                                         <td>MUZAAB</td>
-                                                        <td>present</td>
-                                                        <td>present</td>
-                                                        <td>present</td>
-                                                        <td>present</td>
-                                                        <td>present</td>
-                                                        <td>present</td>
+                                                        <td><i className="fa-solid fa-check"></i></td>
+                                                        <td><i className="fa-solid fa-check"></i></td>
+                                                        <td><i className="fa-solid fa-check"></i></td>
+                                                        <td><i className="fas fa-times-circle"></i></td>
+                                                        <td><i className="fa-solid fa-check"></i></td>
+                                                        <td><i className="fas fa-times-circle"></i></td>
                                                         <td>100%</td>
                                                 </tr>
                                                 <tr>
                                                         <td>MUZAAB</td>
-                                                        <td>present</td>
-                                                        <td>present</td>
-                                                        <td>present</td>
-                                                        <td>present</td>
-                                                        <td>present</td>
-                                                        <td>present</td>
+                                                        <td><i className="fa-solid fa-check"></i></td>
+                                                        <td><i className="fa-solid fa-check"></i></td>
+                                                        <td><i className="fa-solid fa-check"></i></td>
+                                                        <td><i className="fas fa-times-circle"></i></td>
+                                                        <td><i className="fa-solid fa-check"></i></td>
+                                                        <td><i className="fas fa-times-circle"></i></td>
                                                         <td>100%</td>
                                                 </tr>
                                                 <tr>
                                                         <td>MUZAAB</td>
-                                                        <td>present</td>
-                                                        <td>present</td>
-                                                        <td>present</td>
-                                                        <td>present</td>
-                                                        <td>present</td>
-                                                        <td>present</td>
+                                                        <td><i className="fa-solid fa-check"></i></td>
+                                                        <td><i className="fa-solid fa-check"></i></td>
+                                                        <td><i className="fa-solid fa-check"></i></td>
+                                                        <td><i className="fas fa-times-circle"></i></td>
+                                                        <td><i className="fa-solid fa-check"></i></td>
+                                                        <td><i className="fas fa-times-circle"></i></td>
                                                         <td>100%</td>
                                                 </tr>
                                         </tbody>

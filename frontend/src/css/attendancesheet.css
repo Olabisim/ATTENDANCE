@@ -19,3 +19,15 @@
 .attendanceSheet_table_head table{    
         width: 100%;
 }
+
+
+i {
+        font-size: 25px;
+    }
+
+i.fa-solid.fa-check {
+    color: green;
+}
+i.fas.fa-times-circle {
+    color: red;
+}
