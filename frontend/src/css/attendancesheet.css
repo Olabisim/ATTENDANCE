@@ -1,0 +1,21 @@
+
+.attendanceSheet_title {
+        background: #07294d;;
+        color: white;
+        padding: 20px;
+}
+
+.attendanceSheet_title h2{    
+        font-size: 30px;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+}
+
+.attendanceSheet_title h4{    
+        font-weight: 100;
+        font-size: 30px;
+}
+
+.attendanceSheet_table_head table{    
+        width: 100%;
+}
